@@ -1,0 +1,2 @@
+# dmspot-releases
+Установщики DMSPOT
